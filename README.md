@@ -40,7 +40,7 @@ The Windows PATH environment variable has a critical limitation in the system UI
 No installation is required. Simply download the script and run it with Python:
 
 ```bash
-python path_editor.py
+python WinPathEditor.py
 ```
 
 ## Usage
